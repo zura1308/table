@@ -1,0 +1,72 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 2px;
+}
+
+
+table {
+    padding-top: 10px;
+    width: 43%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+td {
+    padding: 8px;
+}
+
+
+.left-lane {
+
+    text-align: center;
+    border-top: 1px dotted #e3e0dd;
+}
+
+
+.turquoise {
+    background-color: #25c7da;
+}
+
+
+.coral {
+    background-color: #ff8a66;
+}
+
+
+.green {
+    background-color: #9dcc65;
+}
+
+
+.light-aqua {
+    background-color: #b3e5fd;
+}
+
+
+.orange {
+    background-color: #ffa726;
+}
+
+
+.aqua {
+    background-color: #81d5fa;
+}
+
+
+.fb-link {
+    padding-left: 45%;
+}
+
+
+.fb-icon {
+    width: 35px;
+    height: 35px;
+}
+
+
+#time-half {
+    color: #e3e0dd;
+}
+
+
