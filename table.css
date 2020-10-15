@@ -6,19 +6,18 @@
 
 table {
     padding-top: 10px;
-    width: 43%;
+    width: 40%;
     margin-left: auto;
     margin-right: auto;
 }
 
 
 td {
-    padding: 8px;
+    padding: 7px;
 }
 
 
 .left-lane {
-
     text-align: center;
     border-top: 1px dotted #e3e0dd;
 }
@@ -65,7 +64,7 @@ td {
 }
 
 
-#time-half {
+.half-time {
     color: #e3e0dd;
 }
 
